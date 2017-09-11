@@ -1,0 +1,2 @@
+zbighoapp = angular.module('zbighoapp',[
+])
